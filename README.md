@@ -22,16 +22,16 @@ Clone o Repositório:
 1. Copy code
 git clone https://github.com/Samis6/GerenciadordeArquivos.git
 
-2.Configure o Servidor:
+2. Configure o Servidor:
 Coloque os arquivos clonados em um servidor web (como Apache ou Nginx) com suporte para PHP.
 
-3.Integração com WordPress:
+3. Integração com WordPress:
 Certifique-se de que o gerenciador de arquivos está em um diretório separado dentro do seu ambiente WordPress para garantir que um não interfira no outro.
 
-4.Acesse o Gerenciador de Arquivos:
+4. Acesse o Gerenciador de Arquivos:
 Navegue até o endereço do seu servidor web no navegador para começar a usar o gerenciador de arquivos.
 
-5.Autenticação:
+5. Autenticação:
 Insira as credenciais configuradas para acessar o gerenciador de arquivos.
 
 # Contribuições
