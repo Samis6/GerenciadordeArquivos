@@ -20,7 +20,7 @@ JavaScript: Para funcionalidades dinâmicas e interativas.
 Clone o Repositório:
 
 1. Copy code
-git clone https://github.com/Samis6/GerenciadordeArquivosPHP.git
+git clone https://github.com/Samis6/GerenciadordeArquivos.git
 
 2.Configure o Servidor:
 Coloque os arquivos clonados em um servidor web (como Apache ou Nginx) com suporte para PHP.
