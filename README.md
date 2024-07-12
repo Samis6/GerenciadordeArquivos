@@ -1,4 +1,4 @@
-# Gerenciador de Arquivos PHP
+# Gerenciador de Arquivos em PHP
 Este é um gerenciador de arquivos simples e eficiente, desenvolvido com base em um projeto existente utilizando PHP, CSS, HTML, JavaScript e Bootstrap. Este projeto permite que você navegue, gerencie e edite arquivos diretamente no navegador, oferecendo uma interface amigável e responsiva. Ele foi projetado para funcionar dentro de um site WordPress sem interferir no funcionamento do site principal.
 
 # Recursos
